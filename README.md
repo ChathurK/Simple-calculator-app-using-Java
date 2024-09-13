@@ -20,4 +20,4 @@ Android device with Android version 4.1 (Jelly Bean) or higher
 
 
 ## 🎞️Demo
-
+![Calculator Demo](https://github.com/ChathurK/Simple-calculator-app-using-Java/blob/master/app/src/main/res/drawable/simpleCalculator.gif)
